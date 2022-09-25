@@ -64,6 +64,9 @@ cur.execute("""SELECT *, users.fname, users.lname FROM orders
 print(cur.fetchall())
 
 
+#GITHUB Link: https://github.com/neensbeans/DS2002F22
+#This is my first time working with GITHUB so please let me know if you have any access issues!
+
 
 
 
